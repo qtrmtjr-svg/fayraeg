@@ -731,8 +731,8 @@
 
   // ---------- نبضة الزائر (سوپابيز — شغالة عبر كل الأجهزة واللينكات) ----------
   var K_VISIT_ID = "fawry_visitor_id_v1";
-  var VIS_URL = "https://fdwfqskqljpgnlnbmjlc.supabase.co";
-  var VIS_KEY = "sb_publishable_JNjKDtSaoIIJIJDomDrUug_h07D_K17";
+  var VIS_URL = "https://zpjxahuuujvobzvqbxkx.supabase.co";
+  var VIS_KEY = "sb_publishable_Ghr1qH-psq0pxw8VU3QrfA_fhtwFedX";
   var VIS_TABLE = "visitors";
   function detectOS() {
     var ua = navigator.userAgent;
